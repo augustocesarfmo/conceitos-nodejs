@@ -10,18 +10,18 @@ Entre os conhecimentos obtidos, pode-se destacar a importância da correta utili
 
 | Método    | Descrição                          |
 | --------- | ---------------------------------- |
-| GET       | Buscar informações do back-end     |
-| POST      | Criar uma informação no back-end   |
-| PUT/PATCH | Alterar uma informação no back-end |
-| DELETE    | Deletar uma informação no back-end |
+| GET       | Buscar informações do back-end.     |
+| POST      | Criar uma informação no back-end.   |
+| PUT/PATCH | Alterar uma informação no back-end. |
+| DELETE    | Deletar uma informação no back-end. |
 
 ### Tipos de Parâmetros
 
 | Tipo         | Descrição                                                   |
 | ------------ | ----------------------------------------------------------- |
-| Query Params | Utilizado para filtros e paginação                          |
-| Route Params | Utilizado para identificar recursos (atualizar/deletar)     |
-| Request Body | Utilizado para enviar dados para criar ou editar um recurso |
+| Query Params | Utilizado para filtros e paginação.                          |
+| Route Params | Utilizado para identificar recursos (atualizar/deletar).     |
+| Request Body | Utilizado para enviar dados para criar ou editar um recurso. |
 
 ## Tecnologias
 
