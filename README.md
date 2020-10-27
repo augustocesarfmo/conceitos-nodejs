@@ -10,10 +10,10 @@ Entre os conhecimentos obtidos, pode-se destacar a importância da correta utili
 
 | Método    | Descrição                          |
 | --------- | ---------------------------------- |
-| GET       | Buscar informações do back-end.     |
-| POST      | Criar uma informação no back-end.   |
-| PUT/PATCH | Alterar uma informação no back-end. |
-| DELETE    | Deletar uma informação no back-end. |
+| GET       | Busca informações do back-end.     |
+| POST      | Cria uma informação no back-end.   |
+| PUT/PATCH | Altera uma informação no back-end. |
+| DELETE    | Deleta uma informação no back-end. |
 
 ### Tipos de Parâmetros
 
