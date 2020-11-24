@@ -2,9 +2,14 @@
 
 Esta aplicação reforça os conhecimentos básicos para construção de uma API (Application Programming Interface) na plataforma Node.js.
 
-<!-- START doctoc -->
-<!-- END doctoc -->
-
+- [Conceitos do Node.js](#conceitos-do-nodejs)
+  * [📚 Conhecimentos obtidos](#---conhecimentos-obtidos)
+    + [Métodos HTTP](#m-todos-http)
+    + [Tipos de parâmetros](#tipos-de-par-metros)
+  * [🚀 Tecnologias](#---tecnologias)
+  * [ℹ️ Executando](#---executando)
+  * [📝 Licença](#---licen-a)
+  
 ## 📚 Conhecimentos obtidos
 
 Entre os conhecimentos obtidos, pode-se destacar a importância da correta utilização dos Métodos HTTP e dos Tipos de Parâmetros, conforme as tabelas abaixo:
