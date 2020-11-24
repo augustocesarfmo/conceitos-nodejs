@@ -1,12 +1,6 @@
-toc: true
-
 # Conceitos do Node.js
 
 Esta aplicação reforça os conhecimentos básicos para construção de uma API (Application Programming Interface) na plataforma Node.js.
-
-[TOCM]
-
-[TOC]
 
 ## 📚 Conhecimentos obtidos
 
