@@ -3,18 +3,13 @@
 Esta aplicação reforça os conhecimentos básicos para construção de uma API (Application Programming Interface) na plataforma Node.js.
 
 - [Conceitos do Node.js](#head1)
-	- [📚 Conhecimentos obtidos](#head2)
-		- [Métodos HTTP](#head3)
-		- [Tipos de parâmetros](#head4)
+	- [🌎 Métodos HTTP](#head3)
+	- [📚 Tipos de parâmetros](#head4)
 	- [🚀 Tecnologias](#head5)
 	- [ℹ️ Executando](#head6)
 	- [📝 Licença](#head7)
-	
-## <span id="head2">📚 Conhecimentos obtidos</span>
 
-Entre os conhecimentos obtidos, pode-se destacar a importância da correta utilização dos Métodos HTTP e dos Tipos de Parâmetros, conforme as tabelas abaixo:
-
-### <span id="head3">Métodos HTTP</span>
+### <span id="head3">🌎 Métodos HTTP</span>
 
 | Método    | Descrição                          |
 | --------- | ---------------------------------- |
@@ -23,7 +18,7 @@ Entre os conhecimentos obtidos, pode-se destacar a importância da correta utili
 | PUT/PATCH | Altera uma informação no back-end. |
 | DELETE    | Deleta uma informação no back-end. |
 
-### <span id="head4">Tipos de parâmetros</span>
+### <span id="head4">📚 Tipos de parâmetros</span>
 
 | Tipo         | Descrição                                                   |
 | ------------ | ----------------------------------------------------------- |
