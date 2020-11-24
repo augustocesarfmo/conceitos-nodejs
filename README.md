@@ -1,3 +1,7 @@
+# <span id="head1">Conceitos do Node.js</span>
+
+Esta aplicação reforça os conhecimentos básicos para construção de uma API (Application Programming Interface) na plataforma Node.js.
+
 - [Conceitos do Node.js](#head1)
 	- [📚 Conhecimentos obtidos](#head2)
 		- [Métodos HTTP](#head3)
@@ -5,10 +9,7 @@
 	- [🚀 Tecnologias](#head5)
 	- [ℹ️ Executando](#head6)
 	- [📝 Licença](#head7)
-# <span id="head1">Conceitos do Node.js</span>
-
-Esta aplicação reforça os conhecimentos básicos para construção de uma API (Application Programming Interface) na plataforma Node.js.
-
+	
 ## <span id="head2">📚 Conhecimentos obtidos</span>
 
 Entre os conhecimentos obtidos, pode-se destacar a importância da correta utilização dos Métodos HTTP e dos Tipos de Parâmetros, conforme as tabelas abaixo:
