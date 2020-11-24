@@ -2,9 +2,9 @@
 
 Esta aplicação reforça os conhecimentos básicos para construção de uma API (Application Programming Interface) na plataforma Node.js.
 
-- [Conceitos do Node.js](#conceitos-do-nodejs)
+- [Conceitos do Node.js](#conceitos-do-node.js)
   * [📚 Conhecimentos obtidos](#---conhecimentos-obtidos)
-    + [Métodos HTTP](#m-todos-http)
+    + [Métodos HTTP](#Métodos-HTTP)
     + [Tipos de parâmetros](#tipos-de-par-metros)
   * [🚀 Tecnologias](#---tecnologias)
   * [ℹ️ Executando](#---executando)
