@@ -2,6 +2,8 @@
 
 Esta aplicação reforça os conhecimentos básicos para construção de uma API (Application Programming Interface) na plataforma Node.js.
 
+[TOCM]
+
 [TOC]
 
 ## 📚 Conhecimentos obtidos
@@ -29,8 +31,8 @@ Entre os conhecimentos obtidos, pode-se destacar a importância da correta utili
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Express](https://expressjs.com/)
-- [VS Code][vc]
+- [express](https://expressjs.com/)
+- [vs code][vc]
 
 ## ℹ️ Executando
 
@@ -58,7 +60,7 @@ Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/
 
 ---
 
-by Augusto César
+by Augusto César Oliveira 👐🏼
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
