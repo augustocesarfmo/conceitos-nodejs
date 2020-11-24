@@ -1,20 +1,19 @@
-# Conceitos do Node.js
+- [Conceitos do Node.js](#head1)
+	- [📚 Conhecimentos obtidos](#head2)
+		- [Métodos HTTP](#head3)
+		- [Tipos de parâmetros](#head4)
+	- [🚀 Tecnologias](#head5)
+	- [ℹ️ Executando](#head6)
+	- [📝 Licença](#head7)
+# <span id="head1">Conceitos do Node.js</span>
 
 Esta aplicação reforça os conhecimentos básicos para construção de uma API (Application Programming Interface) na plataforma Node.js.
 
-- [Conceitos do Node.js](#conceitos-do-nodejs)
-  * [📚 Conhecimentos obtidos](#---conhecimentos-obtidos)
-    + [Métodos HTTP](#m-todos-http)
-    + [Tipos de parâmetros](#tipos-de-par-metros)
-  * [🚀 Tecnologias](#---tecnologias)
-  * [ℹ️ Executando](#---executando)
-  * [📝 Licença](#---licen-a)
-  
-## 📚 Conhecimentos obtidos
+## <span id="head2">📚 Conhecimentos obtidos</span>
 
 Entre os conhecimentos obtidos, pode-se destacar a importância da correta utilização dos Métodos HTTP e dos Tipos de Parâmetros, conforme as tabelas abaixo:
 
-### Métodos HTTP
+### <span id="head3">Métodos HTTP</span>
 
 | Método    | Descrição                          |
 | --------- | ---------------------------------- |
@@ -23,7 +22,7 @@ Entre os conhecimentos obtidos, pode-se destacar a importância da correta utili
 | PUT/PATCH | Altera uma informação no back-end. |
 | DELETE    | Deleta uma informação no back-end. |
 
-### Tipos de parâmetros
+### <span id="head4">Tipos de parâmetros</span>
 
 | Tipo         | Descrição                                                   |
 | ------------ | ----------------------------------------------------------- |
@@ -31,14 +30,14 @@ Entre os conhecimentos obtidos, pode-se destacar a importância da correta utili
 | Route Params | Utilizado para identificar recursos (atualizar/deletar).     |
 | Request Body | Utilizado para enviar dados para criar ou editar um recurso. |
 
-## 🚀 Tecnologias
+## <span id="head5">🚀 Tecnologias</span>
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- [express](https://expressjs.com/)
-- [vs code][vc]
+- [Express](https://expressjs.com/)
+- [VS Code][vc]
 
-## ℹ️ Executando
+## <span id="head6">ℹ️ Executando</span>
 
 Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com), [Node.js v12.13][nodejs] ou superior + [Yarn v1.19][yarn] ou superior instalado no seu computador.
 
@@ -58,7 +57,7 @@ $ yarn install
 $ yarn dev
 ```
 
-## 📝 Licença
+## <span id="head7">📝 Licença</span>
 
 Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/fradeneto/devradar-mobile/blob/master/LICENSE) para obter mais informações.
 
