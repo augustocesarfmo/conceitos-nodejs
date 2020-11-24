@@ -2,7 +2,9 @@
 
 Esta aplicação reforça os conhecimentos básicos para construção de uma API (Application Programming Interface) na plataforma Node.js.
 
-## Conhecimentos Obtidos
+[TOC]
+
+## 📚 Conhecimentos obtidos
 
 Entre os conhecimentos obtidos, pode-se destacar a importância da correta utilização dos Métodos HTTP e dos Tipos de Parâmetros, conforme as tabelas abaixo:
 
@@ -15,7 +17,7 @@ Entre os conhecimentos obtidos, pode-se destacar a importância da correta utili
 | PUT/PATCH | Altera uma informação no back-end. |
 | DELETE    | Deleta uma informação no back-end. |
 
-### Tipos de Parâmetros
+### Tipos de parâmetros
 
 | Tipo         | Descrição                                                   |
 | ------------ | ----------------------------------------------------------- |
@@ -23,14 +25,14 @@ Entre os conhecimentos obtidos, pode-se destacar a importância da correta utili
 | Route Params | Utilizado para identificar recursos (atualizar/deletar).     |
 | Request Body | Utilizado para enviar dados para criar ou editar um recurso. |
 
-## Tecnologias
+## 🚀 Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Express](https://expressjs.com/)
 - [VS Code][vc]
 
-## Executando
+## ℹ️ Executando
 
 Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com), [Node.js v12.13][nodejs] ou superior + [Yarn v1.19][yarn] ou superior instalado no seu computador.
 
