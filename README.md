@@ -55,7 +55,7 @@ $ yarn dev
 
 ## <span id="head7">📝 Licença</span>
 
-Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/fradeneto/devradar-mobile/blob/master/LICENSE) para obter mais informações.
+Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/augustocesarfmo/conceitos-nodejs/blob/master/LICENSE.md) para obter mais informações.
 
 ---
 
